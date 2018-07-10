@@ -1,2 +1,2 @@
-# blockchain
+# HealthCare
 NIPP Blockchain challenge
